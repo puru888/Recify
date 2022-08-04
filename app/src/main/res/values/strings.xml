@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recify</string>
+    <string name="login_invalidUsername">Invalid Username</string>
+    <string name="login_invalidPassword">Invalid Password</string>
+    <string name="register_emptyError">Field cannot be empty</string>
+    <string name="register_passwordDoesNotMatch">Password does not match</string>
+</resources>

@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a>
 </p>
 
@@ -24,15 +23,11 @@
 |   <img src = "https://user-images.githubusercontent.com/67874545/186769578-178941a6-4479-4051-9190-b0630c103f50.gif" height = "500"/>  | <img src = "https://user-images.githubusercontent.com/67874545/186769696-b3d49a33-07bb-4dd3-af31-3a29f7c4e04f.gif" height = "500"/>  | <img src = "https://user-images.githubusercontent.com/67874545/186770025-727c3609-12a0-40ef-82a8-0517dc227534.gif" height = "500"/>  | <img src = "https://user-images.githubusercontent.com/67874545/186770185-cbaea818-bdfa-4885-854d-7b6a407128e6.gif" height = "500"/>  
 
 
-
-
-
 ## How To Use
-
-
-
-## Download
-
+  * clone it from the github.
+  * After the project is clonned successfully open it in android studio<b>(recommended beacuse android studio will configure some feature automatically)</b>.
+  * Add emulator in andorid stuido or connect your android device with the usb cable.
+  * And run the project by pressing the green play button. 
 
 ## Credits
 
